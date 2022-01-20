@@ -32,5 +32,7 @@ public class Main {
         System.out.println(calcFeetAndInchesToCentimeters(6,-5)+"cm");
         System.out.println(calcFeetAndInchesToCentimeters(6,13)+"cm");
         System.out.println(calcFeetAndInchesToCentimeters(7,5)+"cm");
+        System.out.println(calcFeetAndInchesToCentimeters(8,4)+"cm");
+        System.out.println(calcFeetAndInchesToCentimeters(157)+"cm");
     }
 }
